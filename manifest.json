@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "version": "43e7e4b1b5236fff",
+  "generated_at": "2026-11-20T19:11:14Z",
+  "osm_timestamp": "2026-11-20T19:09:43Z",
+  "region": "California (US-CA) plus 20 km",
+  "camera_count": 22195,
+  "with_direction": 21798,
+  "license": "ODbL-1.0",
+  "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+  "attribution": "© OpenStreetMap contributors",
+  "files": {
+    "geojson": {
+      "path": "43e7e4b1b5236fff/cameras.geojson.gz",
+      "bytes": 489038,
+      "sha256": "8464ba4c91912f4b3c73edbb37b852c2df6f907483db766c95e482e740ecec6c",
+      "compression": "gzip"
+    },
+    "sqlite": {
+      "path": "43e7e4b1b5236fff/cameras.sqlite.gz",
+      "bytes": 1033561,
+      "sha256": "d75097cbf3d8fb0ad340ddbb3012c2dc30a7ac8b772f3612dea2d11e9a327e0e",
+      "compression": "gzip"
+    },
+    "boundary": {
+      "path": "43e7e4b1b5236fff/california.geojson",
+      "bytes": 16650,
+      "sha256": "311d3c1c634454a9eb75c8dac31fffddd9cf243eb5e02daf5b84b508f533313f"
+    }
+  }
+}
